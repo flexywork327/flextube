@@ -79,7 +79,7 @@ function downloadVideo(filePath, format, url) {
     const percentage = Math.floor((downloaded / total) * 100); // Use Math.floor for whole numbers
 
     // Build a progress bar string
-    const progressBarLength = 20; // Adjust this for desired bar length
+    const progressBarLength = 100; // Adjust this for desired bar length
     const completedChars = Math.round((percentage / 100) * progressBarLength);
     const remainingChars = progressBarLength - completedChars;
 
