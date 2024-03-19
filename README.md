@@ -32,10 +32,6 @@ Select Available video qualities:
 
 After selecting the quality, the video will be downloaded to the `downloads` folder in the root directory of the project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - [Felix Asare - GitHub](https://github.com/flexywork327)
